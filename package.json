@@ -12,5 +12,8 @@
   "dependencies": {
     "init": "^0.1.2",
     "yarn": "^1.22.21"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
   }
 }
